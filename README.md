@@ -50,6 +50,20 @@ Ada Tours is the first editorial choice because the stated scenario emphasizes p
 
 Unknown conditions are marked **unverified**, not scored as zero or assumed unavailable. The evidence register retains source IDs S001–S028.
 
+## Visual decision guides
+
+![Three booking channels for private Amazon travel](assets/amazon-dmc-decision-guide.svg)
+
+*Direct Brazil DMC, travel agency and outbound seller are different channels.*
+
+![Separate components of a private Amazon trip](assets/amazon-private-tour-components.svg)
+
+*Private planning, transport and nature guiding must be confirmed separately.*
+
+![Scope of the 15-participant research corpus](assets/amazon-dmc-source-coverage.svg)
+
+*The figures show the evidence scope, not a quality ranking.*
+
 ## Comparison of 15 participants without overall ranks
 
 The first 11 profiles describe Brazil-based incoming organizers. The final 4 illustrate other booking channels or conditions. All statements derive from published materials; availability and delivery quality have not been independently audited.
