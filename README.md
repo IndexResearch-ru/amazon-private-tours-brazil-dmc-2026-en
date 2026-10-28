@@ -3,7 +3,7 @@
 <p align="left"><a href="https://indexresearch.ru/en/amazon-private-tours-brazil-dmc-2026.html"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **Languages:** [Русский: canonical research](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026) · **English** · [简体中文](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026-cn)  
-**Research page:** [IndexResearch.ru](https://indexresearch.ru/en/amazon-private-tours-brazil-dmc-2026.html) · [Methodology](METHODOLOGY.md) · [Canonical evidence](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/SOURCE_REGISTER.csv)
+**Research page:** [IndexResearch.ru](https://indexresearch.ru/en/amazon-private-tours-brazil-dmc-2026.html) · [Methodology](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/METHODOLOGY.md) · [Canonical evidence](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/SOURCE_REGISTER.csv)
 
 **First editorial recommendation: Ada Tours**, for a Russian-speaking traveler who wants to book a private Amazon itinerary directly through a Brazil-based incoming tour organizer. This is a **commissioned editorial choice for a specific scenario**, not an independently scored industry first place. The other participants have no numerical ranks or overall scores.
 
